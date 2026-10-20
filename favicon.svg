@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" fill="#F2E6CF"/>
-  <path d="M16 8H48Q54 8 54 16V28Q54 44 32 58Q10 44 10 28V16Q10 8 16 8Z" fill="#16233A"/>
-  <g transform="translate(32 27) scale(0.46) translate(-32 -32)" fill="none" stroke="#F2E6CF" stroke-width="12" stroke-linecap="round">
-    <line x1="9" y1="9" x2="22" y2="22"/>
-    <line x1="55" y1="55" x2="42" y2="42"/>
-    <line x1="55" y1="9" x2="42" y2="22"/>
-    <line x1="9" y1="55" x2="22" y2="42"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32"><rect width="100" height="100" rx="22.0" fill="#13294B"/><path fill="#FFFFFF" d="M16.00 21.67 L16.00 78.33 L26.20 78.33 L26.20 21.67 Z M73.80 21.67 L73.80 78.33 L84.00 78.33 L84.00 21.67 Z"/><path fill="#FFFFFF" d="M42.07 78.33 L47.78 66.90 L41.55 54.43 L29.60 78.33 Z M70.40 21.67 L57.93 21.67 L52.22 33.10 L58.45 45.57 Z"/><path fill="#E8805A" d="M29.60 21.67 L42.07 21.67 L70.40 78.33 L57.93 78.33 Z"/></svg>

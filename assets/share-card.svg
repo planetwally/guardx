@@ -8,8 +8,8 @@
   <path d="M126 46V90" stroke="#13294B" stroke-opacity=".3"/>
   <text x="146" y="77" font-family="Arial, sans-serif" font-size="26" letter-spacing="4" fill="#13294B">GUARD<tspan fill="#C2552D">X</tspan></text>
   <text x="65" y="201" font-family="Arial, sans-serif" font-size="14" letter-spacing="1.2" fill="#A9461F">AI GOVERNANCE FOR FINANCIAL SERVICES</text>
-  <text x="62" y="330" font-family="Georgia, serif" font-size="80" letter-spacing="-1.4" fill="#13294B">Confidence in every model.</text>
-  <text x="65" y="445" font-family="Arial, sans-serif" font-size="19" fill="#36404F">EU AI Act · SR 26-2 · NIST AI RMF · ISO/IEC 42001 · PRA SS1/23 · OSFI E-23</text>
+  <text x="62" y="330" font-family="Georgia, serif" font-size="80" letter-spacing="-1.4" fill="#13294B">Confidence in your AI.</text>
+  <text x="65" y="430" font-family="Arial, sans-serif" font-size="20" fill="#36404F">AI risk &amp; oversight · Assurance &amp; validation · Policy &amp; controls · Third-party AI</text>
   <text x="65" y="588" font-family="Arial, sans-serif" font-size="15" fill="#5A6474">guardxgroup.com</text>
   <text x="1136" y="588" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#13294B">hello@guardxgroup.com</text>
 </svg>
